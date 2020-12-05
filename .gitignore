@@ -1,0 +1,4 @@
+/papers/*/*
+/score-following/*/*
+!/score-following/figs/*
+!/score-following/LEARNING*
